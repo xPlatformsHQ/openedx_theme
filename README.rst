@@ -1,7 +1,7 @@
 Frog: a green theme for OpenEDX
 ===============================
 
-Based on `Indigo <https://github.com/overhangio/indigo>`. Detailed instructions can be found there.
+Based on `Indigo <https://github.com/overhangio/indigo>`__. Detailed instructions can be found there.
 
 Installation
 ------------
@@ -25,7 +25,7 @@ The LMS logo resides in ``theme/lms/static/images/logo.png`` and the CMS logo is
 CMS colors
 ~~~~~~~~~~
 
-Unfortunately CMS doesn't respect the ``$primary`` color setting. Edit ``theme/cms/static/sass/partials/cms/theme/_variables.scss`` instead (explore `defaults <https://github.com/edx/edx-platform/blob/master/cms/static/sass/partials/cms/theme/_variables-v1.scss>` to see what's available).
+Unfortunately CMS doesn't respect the ``$primary`` color setting. Edit ``theme/cms/static/sass/partials/cms/theme/_variables.scss`` instead (explore `defaults <https://github.com/edx/edx-platform/blob/master/cms/static/sass/partials/cms/theme/_variables-v1.scss>`__ to see what's available).
 
 License
 -------
