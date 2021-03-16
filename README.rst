@@ -7,6 +7,7 @@ Installation
 ------------
 
 Everything is done in one step::
+
     ./apply.sh
 
 Customization
