@@ -1,6 +1,6 @@
 #!/bin/bash
 
-THEME=frog
+THEME=eldf
 
 tutor config render --extra-config ./config.yml ./theme "$(tutor config printroot)/env/build/openedx/themes/$THEME" \
 && tutor images build openedx \
